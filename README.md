@@ -37,10 +37,6 @@ Edit
 └── script.js       # Chatbot logic
 📝 Sample Keywords & Responses
 js
-Copy
-Edit
-"support|help|contact":
-  "Our customer support is available Monday to Saturday, 8AM to 8PM Sri Lanka time. Reach us at support@yourcompany.lk or +94 77 123 4567.",
 
 "thank you|thanks|thx":
   "You're very welcome! 😊 If you have more questions, I'm here to help."
